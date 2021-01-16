@@ -11,7 +11,7 @@ This is my first game in C++.
   The player dies when he intersects with the enemy or when he touches a border (you can move near the border, you just have to be precise on your movement). To make the game more challenging, I disabled the ability of shooting while being stationary. The speed of the game is proportional to the number of enemies killed. The difficulty can be chosen (the difference is that at a higher difficulty it takes less enemy kills to get up to speed).
   
   Flaws:
-  -bombs can be shot in the direction of the player movement
+  -bombs can only be shot in the direction of the player's movement
   -unpleaseant appearence
   -there's only one enemy 
   -the enemy is stationary and defenceless
